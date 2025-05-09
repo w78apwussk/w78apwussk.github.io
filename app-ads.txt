@@ -3781,3 +3781,4 @@ improvedigital.com, 2525, reseller
 adform.com, 716, reseller
 algorix.co, 54616, reseller, 5b394c12fea27a1d
 bid-matrix.com, f2c71a45ea149366, reseller
+google.com, pub-7783339863985824, DIRECT, f08c47fec0942fa0
